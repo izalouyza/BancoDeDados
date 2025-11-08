@@ -12,8 +12,6 @@ Repositório da disciplina **Banco de Dados (PEX1248)**, ministrada pela profess
 
 Este repositório tem como objetivo armazenar e organizar todos os materiais e exercícios realizados durante a disciplina, abordando desde a modelagem conceitual até a implementação física de bancos de dados relacionais.
 
----
-
 ## Conteúdo do Repositório
 
 A estrutura está dividida de acordo com as **unidades de estudo** e **tipos de material**.
